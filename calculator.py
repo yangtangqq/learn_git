@@ -10,3 +10,6 @@ a + b
 a + b
  
 a + break
+
+a*break
+a*b
